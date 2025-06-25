@@ -1,0 +1,19 @@
+# video - 29.5
+
+<suite name = "Free CRM Application Test Automation Test Suite">
+
+ <test name="Free CRM App Test Cases">
+ 
+   <classes>
+     
+     <class name="com.crm.qa.testcases.LoginPageTest"/>
+          <class name="com.crm.qa.testcases.HomePageTest"/>
+               <class name="com.crm.qa.testcases.COntactpageTest"/>
+                    
+   
+   </classes>
+ 
+ 
+ </test>
+
+</suite>
